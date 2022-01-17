@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @welbhen
-- 👀 I’m interested in learning from scratch.
+- 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on wherever I can
 
